@@ -99,3 +99,7 @@ button:focus {
 div > h1 {
   text-align: center;
 }
+
+h1 {
+  text-shadow: 3px 4px 8px;
+}
